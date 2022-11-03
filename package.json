@@ -1,0 +1,15 @@
+{
+  "name": "ice-cream-brands",
+  "version": "1.0.0",
+  "description": "compare different brands of ice creams",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hannah Celemen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
